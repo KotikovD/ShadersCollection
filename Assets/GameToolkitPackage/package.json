@@ -1,0 +1,29 @@
+{
+  "name": "com.kotikov.gametoolkit",
+  "version": "1.2.3",
+  "displayName": "Game Toolkit",
+  "description": "Useful tools for gamejams and prototyping",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/KotikovD/GameToolkit",
+  "dependencies": {
+    "com.dbrizov.naughtyattributes": "2.1.4"
+ },
+  "author": {
+    "name": "Dmitry Kotikov",
+    "email": "kotikov@kotikov.pro",
+    "url": "https://github.com/KotikovD"
+  },
+  "samples": [
+    {
+      "displayName": "Sample Scene",
+      "description": "Import all other samples for correct scene working",
+      "path": "Samples~/"
+    },
+    {
+      "displayName": "Shaders Collection",
+      "description": "",
+      "path": "Samples~/ShadersCollection"
+    }
+  ]
+}
+
