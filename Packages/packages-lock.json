@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.kotikov.gametoolkit": {
-      "version": "file:GameToolkitPackage",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "1.15.4",
       "depth": 0,
