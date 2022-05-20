@@ -14,18 +14,6 @@
     "name": "Dmitry Kotikov",
     "email": "kotikov@kotikov.pro",
     "url": "https://github.com/KotikovD"
-  },
-  "samples": [
-    {
-      "displayName": "Sample Scene",
-      "description": "Import all other samples for correct scene working",
-      "path": "Samples~/SampleScene"
-    },
-    {
-      "displayName": "Shaders Collection",
-      "description": "",
-      "path": "Samples~/ShadersCollection"
-    }
-  ]
+  }
 }
 
