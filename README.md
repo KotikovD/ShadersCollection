@@ -1,4 +1,4 @@
-## Shaders collection
+## Overview
 Little shaders collection for solve typical tasks and implement common mechanics in any project. Suitable for prototyping, game-jam participation  and learning.
 
 ## How to install and start
@@ -13,7 +13,7 @@ In this case you get only shaders and you need create materials and add your own
 #### 3. Copy any spciphic shader code in your project. 
 Check info about each shader below, find code by name in this repository and copy it.
 
-### Shaders
+## Shaders collection
 1. DepthMask
 2. RoundedWorld
 3. SpriteOutline
