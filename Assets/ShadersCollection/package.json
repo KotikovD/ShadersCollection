@@ -1,0 +1,15 @@
+{
+  "name": "com.kotikov.shaderscollection",
+  "version": "0.0.1",
+  "displayName": "Kotikov's shaders collection",
+  "description": "Useful tools for gamejams and prototyping",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/KotikovD/ShadersCollection",
+
+  "author": {
+    "name": "Dmitry Kotikov",
+    "email": "kotikov@kotikov.pro",
+    "url": "https://github.com/KotikovD"
+  }
+}
+
