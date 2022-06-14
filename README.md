@@ -10,7 +10,7 @@ Example project, matrials and settings are included. Exam the scene "SampleScene
 You could import shaders collection in your project. Open Package Manager in Unity -> press "plus" button -> "Add Package from git URL" with link below: https://github.com/KotikovD/ShadersCollection.git?path=/Assets/ShadersCollection
 In this case you get only shaders and you need create materials and add your own textures.
 
-#### 3. Copy any spciphic shader code in your project. 
+#### 3. Copy any specific shader code in your project. 
 Check info about each shader below, find code by name in this repository and copy it.
 
 ## Shaders collection
