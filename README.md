@@ -6,12 +6,13 @@ There are three ways:
 #### 1. Clone project and open with Unity. 
 Example project, matrials and settings are included. Exam the scene "SampleSceneShadersCollection".
 
-#### 2. Get shders only.
-You could import shaders collection in your project. Open Package Manager in Unity -> press "plus" button -> "Add Package from git URL" with link below: https://github.com/KotikovD/ShadersCollection.git?path=/Assets/ShadersCollection
+#### 2. Get shaders only.
+You could import shaders collection in your project. Open Package Manager in Unity -> press "plus" button -> "Add Package from git URL" with link below:
+``` https://github.com/KotikovD/ShadersCollection.git?path=/Assets/ShadersCollection ```
 In this case you get only shaders and you need create materials and add your own textures.
 
 #### 3. Copy any spciphic shader code in your project. 
-Check info about each shader below, find code by name in this repository and copy it.
+Check info about shaders below and find code by name in this [folder](https://github.com/KotikovD/ShadersCollection/tree/main/Assets/ShadersCollection/Shaders).
 
 ## Shaders collection
 1. DepthMask
