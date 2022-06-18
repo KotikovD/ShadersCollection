@@ -25,10 +25,12 @@ Check info about shaders below and find code by name in this [folder](https://gi
 8. Noiser
 9. Rotation
 
-## 3rd part dependencies
+## 3rd part
 * [NaughtyAttributes](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996#publisher)
 * [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#publisher)
 * [Pro builder](https://unity.com/ru/features/probuilder)
+* [Prototyping textures](https://opengameart.org/content/prototyping-textures)
+* [Resource Icons](https://assetstore.unity.com/packages/2d/gui/icons/resource-icons-101998)
 
 ## License
 This project is under the MIT License.

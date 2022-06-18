@@ -46,7 +46,7 @@ public sealed class PathController : MonoBehaviour
             {
                 _roads.RemoveAt(0);
                 _roads.Insert(_roads.Count, road);
-                roadTransform.localPosition = new Vector3(0f, 0f, (_roads.Count - 1) * _prefabLength);
+                roadTransform.localPosition = new Vector3(0f, 0f, (_roads.Count - 1) * (_prefabLength - 1));
                 Animate(_roads.Count - 1);
             })
             .SetAutoKill();

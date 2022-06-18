@@ -1,11 +1,13 @@
 using System;
 using System.Collections.Generic;
 using NaughtyAttributes;
+using TMPro;
 using UnityEngine;
 
 public sealed class CameraController : MonoBehaviour
 {
     [SerializeField] private Camera _camera;
+    [SerializeField] private TMP_Text _shaderLabel;
     [SerializeField] private List<CameraSettings> _settings;
     private int _currentIndex;
     private int _maxIndex;
@@ -13,6 +15,8 @@ public sealed class CameraController : MonoBehaviour
     private void Awake()
     {
         _maxIndex = _settings.Count - 1;
+        _camera.transform.localPosition = Vector3.zero;
+        _camera.transform.localRotation = Quaternion.identity;
         ApplyNextSettings();
     }
 
@@ -48,7 +52,8 @@ public sealed class CameraController : MonoBehaviour
         var nextSet = _settings[_currentIndex];
         _camera.transform.SetParent(nextSet.Parent, false);
         _camera.backgroundColor = nextSet.Background;
-        Debug.Log($"Set {nextSet.Name} example");
+        _shaderLabel.text = nextSet.Name;
+        BroadcastMessage("OnCameraSwitch");
     }
 
     [Serializable]

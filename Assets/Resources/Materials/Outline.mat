@@ -40,9 +40,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 5871f17f9c93f554d9710e0a0fa09d63, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: e0eac6b76fdd842e88a7f8c75ecffaf4, type: 3}
+        m_Scale: {x: 1.1, y: 1.1}
+        m_Offset: {x: -0.05, y: -0.05}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -69,9 +69,9 @@ Material:
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
-    - _MovingSpeed: 0.4
+    - _MovingSpeed: 0.7
     - _OcclusionStrength: 1
-    - _OutlineWidth: 0.03
+    - _OutlineWidth: 0.032
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -81,6 +81,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OutlineColor: {r: 0.9254902, g: 0.8813978, b: 0.29411763, a: 1}
-    - _OutlineColor2: {r: 0.8396226, g: 0, b: 0.14158367, a: 1}
+    - _OutlineColor: {r: 0.011764685, g: 0.3737976, b: 0.8862745, a: 1}
+    - _OutlineColor2: {r: 0.09141816, g: 0.8392157, b: 0, a: 1}
   m_BuildTextureStacks: []
