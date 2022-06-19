@@ -15,15 +15,30 @@ In this case you get only shaders and you need create materials and add your own
 Check info about shaders below and find code by name in this [folder](https://github.com/KotikovD/ShadersCollection/tree/main/Assets/ShadersCollection/Shaders).
 
 ## Shaders collection
-1. DepthMask
-2. RoundedWorld
-3. SpriteOutline
-4. Dissolve
-5. DissolveDistance
-6. Grey
-7. MovingSurface
-8. Noiser
-9. Rotation
+#### DepthMask
+![DepthMask](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Depth.gif)
+#### RoundedWorld
+Example 1:
+
+![RoundedWorld_1](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/CurvedWorld_1.gif)
+
+Example 2:
+
+![RoundedWorld_2](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/CurvedWorld_2.gif)
+#### Outline
+![SpriteOutline](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Outline.gif)
+#### Dissolve
+
+#### DissolveDistance
+![DissolveDistance](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/DissolveDistance.gif)
+#### Grey
+![Grey](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Grey.gif)
+#### MovingSurface
+![MovingSurface](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/MovingSurface.gif)
+#### Noiser
+![Noiser](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Noiser.gif)
+#### Rotation
+![Rotation](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Rotation.gif)
 
 ## 3rd part
 * [NaughtyAttributes](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996#publisher)
