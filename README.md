@@ -28,7 +28,7 @@ Example 2:
 #### Outline
 ![SpriteOutline](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Outline.gif)
 #### Dissolve
-
+![Dissolve](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Dissolve.gif)
 #### DissolveDistance
 ![DissolveDistance](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/DissolveDistance.gif)
 #### Grey
