@@ -53,9 +53,7 @@ Shader "Kotikov/Dissolve"
 
             clip(delta);
 
-            if (delta < _OutlineSize)
-                o.Emission = _OutlineColor;
-            
+            o.Emission = _OutlineColor * step(0.000001, _Amount) * step(delta, _OutlineSize);
             fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
             o.Albedo = c.rgb;
             o.Metallic = _Metallic;
